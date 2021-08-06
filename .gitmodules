@@ -1,0 +1,3 @@
+[submodule "openad-msgs"]
+	path = openad-msgs
+	url = https://github.com/zhijie-yang/openad-msgs
